@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/114832299/229172615-f33b6185-f6e5-4fb5-833e-7789f8bb0727.png)
+<img width="1440" alt="Screen Shot 2022-12-03 at 1 47 44 PM" src="https://user-images.githubusercontent.com/114832299/229172878-d02cd394-c575-460a-960d-e88b3efb892b.png">
 
 <h1 {text-align: center;}> Hi there 👋, I'm Jhalak Surve </h1>
 

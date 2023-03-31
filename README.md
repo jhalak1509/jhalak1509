@@ -1,7 +1,7 @@
 <h1 {text-align: center;}> Hi there 👋, I'm Jhalak Surve </h1>
 
 <p>
-A graduate student in Information Systems based in Boston, MA.<br> 
+A graduate student pursuing Master's in Information Systems at Northeastern University, having experience in machine learning and data analysis. My technical skills include Python, R, SQL, Java, Tableau, Microsoft Power BI, and various libraries and databases<br> 
 Welcome to my GitHub profile!
 
 

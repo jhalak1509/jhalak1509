@@ -1,6 +1,6 @@
 <h1 {text-align: center;}> Hi there 👋, I'm Jhalak Surve </h1>
 
-A graduate student in Information Systems based in Boston, MA. 
+A graduate student in Information Systems based in Boston, MA.<br> 
 Welcome to my GitHub profile!
 
 

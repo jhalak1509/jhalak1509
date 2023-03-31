@@ -1,4 +1,4 @@
-![inbox_10713081_3dce8f743f66698f87eb0e5d63b11255_1](https://user-images.githubusercontent.com/114832299/229171563-1ccd3dd8-e363-4b19-a3bd-5cc24458ec01.jpeg)
+![image](https://user-images.githubusercontent.com/114832299/229172110-f6519943-ba7e-4a3a-9495-42d58721868c.png)
 
 <h1 {text-align: center;}> Hi there 👋, I'm Jhalak Surve </h1>
 

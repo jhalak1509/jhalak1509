@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 {text-align: center;}> ### Hi there 👋 </h1>
 I'm Jhalak Surve, a graduate student in Information Systems based in Boston, MA. Welcome to my GitHub profile!
 
 🔭 I’m currently working on academic projects related to machine learning and data analysis.
@@ -10,6 +10,8 @@ I'm Jhalak Surve, a graduate student in Information Systems based in Boston, MA.
 💬 Ask me about machine learning, data analysis, and programming.
 
 📫 How to reach me: surve.j@northeastern.edu or my LinkedIn profile.
+
+Thanks for visiting!
 
 <!--
 **jhalak1509/jhalak1509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

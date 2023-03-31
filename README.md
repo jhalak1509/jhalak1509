@@ -1,5 +1,6 @@
 <h1 {text-align: center;}> Hi there 👋, I'm Jhalak Surve </h1>
 
+<p>
 A graduate student in Information Systems based in Boston, MA.<br> 
 Welcome to my GitHub profile!
 
@@ -15,6 +16,8 @@ Welcome to my GitHub profile!
 📫 How to reach me: surve.j@northeastern.edu or my LinkedIn profile.
 
 Thanks for visiting!
+  
+</p>
 
 <!--
 **jhalak1509/jhalak1509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

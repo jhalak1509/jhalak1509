@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fdiscussions%2Fgetting-started%2F360370&psig=AOvVaw02v5nXHzaWYDreqPjvOq0B&ust=1680364548235000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOie8fHDhv4CFQAAAAAdAAAAABAE
+![inbox_10713081_3dce8f743f66698f87eb0e5d63b11255_1](https://user-images.githubusercontent.com/114832299/229171563-1ccd3dd8-e363-4b19-a3bd-5cc24458ec01.jpeg)
 
 <h1 {text-align: center;}> Hi there 👋, I'm Jhalak Surve </h1>
 

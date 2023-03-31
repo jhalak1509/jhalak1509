@@ -1,5 +1,5 @@
-<h1 {text-align: center;}> ### Hi there 👋 </h1>
-I'm Jhalak Surve, a graduate student in Information Systems based in Boston, MA. Welcome to my GitHub profile!
+<h1 {text-align: center;}> ### Hi there 👋, I'm Jhalak Surve </h1>
+A graduate student in Information Systems based in Boston, MA. Welcome to my GitHub profile!
 
 🔭 I’m currently working on academic projects related to machine learning and data analysis.
 

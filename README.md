@@ -1,4 +1,4 @@
-<img width="1440" alt="Screen Shot 2022-12-03 at 1 47 44 PM" src="https://user-images.githubusercontent.com/114832299/229172878-d02cd394-c575-460a-960d-e88b3efb892b.png">
+<img width="1182" alt="Screen Shot 2023-04-20 at 12 51 25 PM" src="https://user-images.githubusercontent.com/114832299/233435127-9e657347-afda-410e-9cc5-4cf3af72cacf.png">
 
 <h1 {text-align: center;}> Hi there 👋, I'm Jhalak Surve </h1>
 
